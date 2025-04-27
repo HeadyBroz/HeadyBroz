@@ -35,6 +35,7 @@ header p {
 /* Main section styling */
 main {
     margin: 20px 0;
+    margin-bottom: 100px; /* Added to push footer lower */
 }
 
 h2 {
@@ -55,7 +56,7 @@ button {
     font-size: 1em;
     border-radius: 5px;
     cursor: pointer;
-    margin: 10px; /* Added for spacing between buttons */
+    margin: 10px;
 }
 
 button:hover {
