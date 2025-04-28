@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Vibe Check button
     const vibeButton = document.getElementById("vibeButton");
     vibeButton.addEventListener("click", () => {
-        alert("Vibe check passed! Keep it heady, bro! 😎");
+        alert("Create your own vibe by checking out our menu!");
     });
 
     // Menu button
