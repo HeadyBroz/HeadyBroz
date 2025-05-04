@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <p><strong style="color: #6200ea;">High Tide Hash Rosin Disposable (0.5g)</strong><br>
                     - $35 for one - $65 for two<br>
                     <span style="color: #00e676;">Strains: Zellos, Mad Honey, Sherbet, Biscotti Chunks, Purple Ice Water, Black Cherry Guava</span></p>
-                    <p><strong style="color: #6200ea;">Sereno Hash Rosin Disposable (0.5g)</strong><br>
+                    <p><strong style="color: #6200ea;">Seréno Hash Rosin Disposable (0.5g)</strong><br>
                     - $30 for one - $55 for two<br>
                     <span style="color: #00e676;">Strains: Banana Ringz</span></p>
                     <p><strong style="color: #6200ea;">HeadyBroz Pre-Rolls</strong><br>
