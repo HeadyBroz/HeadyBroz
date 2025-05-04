@@ -26,6 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     - $30 for one - $55 for two<br>
                     <span style="color: #00e676;">Strains: Banana Ringz</span></p>
                     <p><strong style="color: #6200ea;">HeadyBroz Pre-Rolls</strong><br>
+                    <span style="color: #00e676;">Strain: Candy Chrome - Infused and coated with Premium Distillate and Keif</span></p>
                     - King Tree (1g king size joint): $15 for one, $20 for two<br>
                     - Mini Trees (2 - 0.5g joints): $15 for one, $25 for two</p>
                     <p><strong style="color: #6200ea;">High Tides Hash Rosin</strong><br>
