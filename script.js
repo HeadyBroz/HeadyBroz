@@ -39,4 +39,21 @@ document.addEventListener("DOMContentLoaded", () => {
             padding: "1em",
         });
     });
+
+    // Event button
+    const eventButton = document.getElementById("eventButton");
+    eventButton.addEventListener("click", () => {
+        Swal.fire({
+            title: "HeadyBroz Events",
+            html: `
+                <div style="text-align: left;">
+                    <p><strong style="color: #6200ea;">Stoked Ct - Home Goods Event</strong><br>
+                </div>
+            `,
+            confirmButtonText: "Close",
+            confirmButtonColor: "#00e676",
+            width: "90%",
+            padding: "1em",
+        });
+    });
 });
