@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "HeadyBroz Events",
             html: `
                 <div style="text-align: left;">
-                    <p><strong style="color: #6200ea;">Stoked Ct - Housewares May 10th</strong><br>
+                    <p><strong style="color: #6200ea;">Website Release Party TBD</strong><br>
                 </div>
             `,
             confirmButtonText: "Close",
