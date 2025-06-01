@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     - $25 8th / $7.14 a G - $90 half<br>
                     <span style="color: #00e676;">Strains: Pressure, Frosted Guava</span><br>
                     - $20 8th / $5 a G<br>
-                    <span style="color: #00e676;">Strains: Organic Cherries</span><br>
-                    <span style="color: #00e676;">Smalls: Candy Chrome</span></p>
+                    <span style="color: #00e676;">Strains: Blue Ice ($40q's can't do $35)</span><br>
+                    <span style="color: #00e676;">Smalls: Out Of Stock Till Next Week</span></p>
                     <p><strong style="color: #6200ea;">High Tide Hash Rosin Disposable (0.5g)</strong><br>
                     - $35 for one - $65 for two<br>
                     <span style="color: #00e676;">Strains: Zellos, Mad Honey, Sherbet, Biscotti Chunks, Purple Ice Water, Black Cherry Guava</span></p>
