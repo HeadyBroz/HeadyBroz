@@ -31,6 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     <span style="color: #00e676;">Strain: Candy Chrome - Infused and coated with Premium Distillate and Kief</span></p>
                     <p><strong style="color: #6200ea;">High Tides Hash Rosin</strong><br>
                     - $90 2gram bucket</p>
+                                <p><strong style="color: #6200ea;">Maine Sourced Hash Rosin</strong><br>
+                    - $40 per gram Animal Tsunami</p> 
                 </div>
             `,
             confirmButtonText: "Close",
@@ -47,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "HeadyBroz Events",
             html: `
                 <div style="text-align: left;">
-                    <p><strong style="color: #6200ea;">Website Release Party TBD</strong><br>
+                    <p><strong style="color: #6200ea;">Next Event TBD</strong><br>
                 </div>
             `,
             confirmButtonText: "Close",
