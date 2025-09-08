@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <span style="color: #00e676;">Strains: Lemon Ice, Pink Zkittlez, Sherberry, Sherb Cream Pie, Sugar Factory, Super Boof</span></p>
                     <p><strong style="color: #6200ea;">Seréno Hash Rosin Disposable (0.5g)</strong><br>
                     - $30 for one - $55 for two<br>
-                    <span style="color: #00e676;">Strains: SOLD OUT </span></p>
+                    <span style="color: #00e676;">Strains: Petro-Chem </span></p>
                     <p><strong style="color: #6200ea;">HeadyBroz Pre-Rolls</strong><br>
                     - King Tree (1g king size joint): $15 for one, $20 for two<br>
                     - Mini Trees (2 - 0.5g joints): $15 for one, $25 for two<br>
