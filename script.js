@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     - $25 8th / $7.14 a G - $90 half<br>
                     <span style="color: #00e676;">Strains: SOLD OUT </span><br>
                     - $20 8th / $5 a G<br>
-                    <span style="color: #00e676;">Strains: Bolo Runtz, Titty Sprinkles, Sherbcake, </span><br>
+                    <span style="color: #00e676;">Strains: Bolo Runtz, Titty Sprinkles, Sherbcake, Candy Rian, Bubblegum Yumz </span><br>
                     <span style="color: #00e676;">Lulu</span></p>
                     <p><strong style="color: #6200ea;">Eclipse Live Resin Disposable (1g)</strong><br>
                     - $35 for one - $60 for two<br>
