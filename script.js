@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     - $25 8th / $7.14 a G - $90 half<br>
                     <span style="color: #00e676;">Strains: SOLD OUT </span><br>
                     - $20 8th / $5 a G<br>
-                    <span style="color: #00e676;">Strains: Lemon Cherry Gelato </span><br>
+                    <span style="color: #00e676;">Strains: Brain Freeze </span><br>
                     <span style="color: #00e676;"></span></p>
                     <p><strong style="color: #6200ea;">Maine Sourced Live Resin Disposable (1g)</strong><br>
                     - $35 for one - $60 for two<br>
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <p><strong style="color: #6200ea;">High Tides Hash Rosin</strong><br>
                     - $90 2gram bucket SOLD OUT</p>
                                 <p><strong style="color: #6200ea;">Maine Sourced Hash Rosin</strong><br>
-                    - $40 per gram Animal Tsunami, $80 2g Bucket Grapes N' Cream</p> 
+                    - $40 per gram Animal Tsunami, Cliff House Cannabis $80 2g Bucket Grapes N' Cream</p> 
                 </div>
             `,
             confirmButtonText: "Close",
