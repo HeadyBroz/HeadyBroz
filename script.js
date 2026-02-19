@@ -22,7 +22,7 @@ menuButton.addEventListener("click", () => {
                 <p><strong style="color: #6200ea;">Maine Sourced Live Resin Disposable (1g)</strong><br>
                 - $35 for one - $60 for two<br>
                 <span style="color: #00e676;">Strains: Lemon Berry, GMO</span></p>
-                <img src="Images/gmo-dispo.jpeg" alt="GMO disposable">
+                <img src="Images/gmo-dispo.jpeg" alt="GMO Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <p><strong style="color: #6200ea;">Seréno Hash Rosin Disposable (0.5g)</strong><br>
                 - $30 for one - $55 for two<br>
                 <span style="color: #00e676;">Strains: SOLD OUT </span></p>
