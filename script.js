@@ -9,10 +9,6 @@ document.addEventListener("DOMContentLoaded", () => {
     // Menu button
     const menuButton = document.getElementById("menuButton");
     menuButton.addEventListener("click", () => {
-        
-
-
-        
         Swal.fire({
             title: "HeadyBroz Menu",
             html: `
