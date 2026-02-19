@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
             - $35 for one - $60 for two<br>
             <span style="color: #00e676;">Strains: Lemon Berry, GMO</span><br>
             <img src="images/lemon-berry-disposable.jpg" alt="Lemon Berry disposable" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;">
-            <img src="images/gmo-disposable.jpg" alt="GMO disposable" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;">
+            <img src="Images/gmo-dispo.jpg" alt="GMO disposable" style="max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0;">
             </p>
 
         
