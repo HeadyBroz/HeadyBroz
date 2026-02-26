@@ -17,9 +17,9 @@ menuButton.addEventListener("click", () => {
                 - $25 8th / $7.14 a G - $90 half<br>
                 <span style="color: #00e676;">Strains: SOLD OUT </span><br>
                 - $20 8th / $5 a G<br>
-                <span style="color: #00e676;">Strains: Brain Freeze </span><br>
+                <span style="color: #00e676;">Strains: Captain Cruntz </span><br>
                 <span style="color: #00e676;"></span></p>
-                <img src="Images/brainfreeze.jpeg" alt="brainfreeze" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+                <img src="Images/captaincruntz.jpeg" alt="captaincruntz" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <p><strong style="color: #6200ea;">Maine Sourced Live Resin Disposable (1g)</strong><br>
                 - $35 for one - $60 for two<br>
                 <span style="color: #00e676;">Strains: Lemon Berry, GMO</span></p>
