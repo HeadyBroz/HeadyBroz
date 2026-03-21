@@ -26,10 +26,12 @@ menuButton.addEventListener("click", () => {
                 <span style="color: #00e676;">Strains: Lemon Berry, GMO</span></p>
                 <img src="Images/gmo-dispo.jpeg" alt="GMO Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <img src="Images/lemonberry-dispo.jpeg" alt="LB Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-                <p><strong style="color: #6200ea;">Seréno Hash Rosin Disposable (0.5g)</strong><br>
-                - $30 for one - $55 for two<br>
-                <span style="color: #00e676;">Strains: SOLD OUT </span></p>
-                <p><strong style="color: #6200ea;">HeadyBroz Pre-Rolls</strong><br>
+                <img src="Images/superboof-dispo.jpeg" alt="SB Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+                <p><strong style="color: #6200ea;">Oasis Cured Rosin Cartridge (1g)</strong><br>
+                - $35 for one - $65 for two<br>
+                <span style="color: #00e676;">Strains: Cherry Sherb, Cap Junky, Filthy Animal, Gary Payton, Biscotti Wedding, Captain Kush </span></p>
+               <img src="Images/oasis-cart.jpeg" alt="Oasis Cured Rosin Cartridge" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+                 <p><strong style="color: #6200ea;">HeadyBroz Pre-Rolls</strong><br>
                 - King Tree (1g king size joint): $15 for one, $20 for two<br>
                 - Mini Trees (2 - 0.5g joints): $15 for one, $25 for two<br>
                 <span style="color: #00e676;">Strain: Candy Chrome - Infused and coated with Premium Distillate and Kief</span></p>
