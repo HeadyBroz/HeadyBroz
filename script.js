@@ -21,6 +21,7 @@ menuButton.addEventListener("click", () => {
                 <span style="color: #00e676;"></span></p>
                 <img src="Images/captaincruntz.jpeg" alt="captaincruntz" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <img src="Images/chocolato.jpeg" alt="chocolato" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+                <img src="Images/burpee.jpeg" alt="burpee" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <p><strong style="color: #6200ea;">Maine Sourced Live Resin Disposable (1g)</strong><br>
                 - $35 for one - $60 for two<br>
                 <span style="color: #00e676;">Strains: Lemon Berry, GMO, Superboof</span></p>
