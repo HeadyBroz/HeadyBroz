@@ -28,7 +28,7 @@ menuButton.addEventListener("click", () => {
                 <img src="Images/gmo-dispo.jpeg" alt="GMO Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <img src="Images/lemonberry-dispo.jpeg" alt="LB Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <img src="Images/superboof-dispo.jpeg" alt="SB Live Resin Disposable" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-                <p><strong style="color: #6200ea;">Oasis Cured Rosin Cartridge (1g)</strong><br>
+                <p><strong style="color: #6200ea;">Oasis Cured Rosin Disposable (1g)</strong><br>
                 - $35 for one - $65 for two<br>
                 <span style="color: #00e676;">Strains: Cherry Sherb, Cap Junky, Filthy Animal, Gary Payton, Biscotti Wedding, Captain Kush </span></p>
                <img src="Images/oasis-cart.jpeg" alt="Oasis Cured Rosin Cartridge" style="max-width: 100%; max-height: 300px; height: auto; width: auto; display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
